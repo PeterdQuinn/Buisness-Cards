@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:;Peter Quinn;;;
+FN: Peter Quinn 
+ORG:Freelance;
+TITLE:Full Stack Web Dev
+EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
+TEL;type=WORK;type=VOICE:480 781 8033
+item1.ADR;type=WORK;type=pref:;;Arizona View\nSandcrawler\, 09-01;;;138577;USA
+item1.X-ABADR:sg
+item2.URL;type=pref:
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
